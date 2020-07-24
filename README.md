@@ -1,4 +1,4 @@
-# 대구 소프트웨어 고등학교 제주도 교내 메이커 톤 - NSC(NFC Spot Counter)
+# DGSW 제주도 교내 메이커 톤 - NSC(NFC Spot Counter)
 
 ## [프로젝트: NSC(Nfc Spot Counter)]
 
